@@ -15,7 +15,7 @@ Este proyecto vamos con objetivo de desarrollar una sistema de gestion estable y
 
 ## Investigación
 ### Diseño de arquitectura:Sistema ERP
-Elegimos el sistema **ERP** (**E**nterprise **R**esource **P**lanning), se llama ***sistema de planificación de recursos empresariales***, es la gestion integrada de los principales procesops empresariales.
+Elegimos el sistema **ERP** ((**E**nterprise **R**esource **P**lanning)[https://es.wikipedia.org/wiki/Sistema_de_planificaci%C3%B3n_de_recursos_empresariales]), se llama ***sistema de planificación de recursos empresariales***, es la gestion integrada de los principales procesops empresariales.
 Un ERP debería ser un sistema especializado que permita la unificación y organización de todas las áreas, es decir, ser un sistema que permita la trazabilidad de todos los procesos y, por lo tanto, dé paso a la planificación y optimización de los recursos. En este caso sería una opción ideal aplicar en el sistema de supermercado.
 Los objetivos principales de los sistemas ERP son:
 * Unificación y trazabilidad de todos los procesos en un mismo sistema.
@@ -23,4 +23,7 @@ Los objetivos principales de los sistemas ERP son:
 * Planificación de los recursos.
 * Automatización de los procesos entre las áreas de la empresa.
 * Acceso a los datos y creación de información estructurada.
+* Posibilidad de compartir información entre todos los componentes de la organización.
+* Base de datos centralizado.
+* Los componentes del ERP interactúan entre sí consolidando las operaciones.
 * 
